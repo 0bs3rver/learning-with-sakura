@@ -1,3 +1,3 @@
 # learning-with-sakura
 
-跟随Sakura师傅的学习记录：
+菜鸡在skr_uni的爬行经历
