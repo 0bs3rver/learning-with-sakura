@@ -116,8 +116,11 @@ int main() {
 
 ## leak libc
 
-说实话 没看太懂...
+首先利用uaf分配和0x810有重复位置的0x30的chunk
 
+通过write("\n")free掉0x810的chunk
+
+然后利用tcache key泄漏出libc基址
 
 
 ## get flag
