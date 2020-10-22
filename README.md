@@ -124,3 +124,7 @@
   - [iot入门知识与工具使用-持续更新版](https://github.com/0bs3rver/learning-with-sakura/blob/master/IOT/iot%E5%85%A5%E9%97%A8%E7%9F%A5%E8%AF%86%E5%8F%8A%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E7%89%88.md)
 - [x] [pwnable.tw orw](https://github.com/0bs3rver/pwnable.tw/tree/main/orw-shellcode%E7%94%A8%E4%B8%AD%E6%96%AD%E8%AF%BB%E5%8F%96flag) ：shellcode 用中断读取 flag
 </details>
+
+<details>
+<summary>2020.10.22: day 88 头疼，上午极度不适，勉强看了看 pwnable.tw 的 calc </summary>
+</details>
