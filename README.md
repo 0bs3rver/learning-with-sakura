@@ -138,3 +138,9 @@
 <details>
 <summary>2020.10.24: day 90-91 打 byte ctf </summary>
 </details>
+
+<details>
+<summary>2020.10.26: day 92 在写 pwnable.tw 的 3*17 顺便看了看 main 函数的启动流程 </summary>
+  
+- [x] [linux编程之 main 函数启动过程](https://blog.csdn.net/gary_ygl/article/details/8506007) 
+</details>
