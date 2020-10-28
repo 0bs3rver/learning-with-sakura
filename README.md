@@ -150,3 +150,9 @@
   
 - [x] [pwnable.tw_3x17](https://github.com/0bs3rver/pwnable.tw/tree/main/3x17-%E4%BB%BB%E6%84%8F%E5%9C%B0%E5%9D%80%E5%86%99%E6%9E%84%E9%80%A0ROP) ：任意地址写构造ROP
 </details>
+
+<details>
+<summary>2020.10.28: day 94 写完了 pwnable.tw 的 dubblesort </summary>
+  
+- [x] [pwnable.tw_dubblesort](https://github.com/0bs3rver/pwnable.tw/tree/main/dubblesort-%E4%BF%9D%E6%8A%A4%E5%85%A8%E5%BC%80%E6%A0%88%E6%BA%A2%E5%87%BA) ：保护全开的栈溢出
+</details>
