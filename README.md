@@ -156,3 +156,7 @@
   
 - [x] [pwnable.tw_dubblesort](https://github.com/0bs3rver/pwnable.tw/tree/main/dubblesort-%E4%BF%9D%E6%8A%A4%E5%85%A8%E5%BC%80%E6%A0%88%E6%BA%A2%E5%87%BA) ：保护全开的栈溢出
 </details>
+
+<details>
+<summary>2020.10.29: day 95 研究了一下小米摄像头，还没研究出来啥 </summary>
+</details>
