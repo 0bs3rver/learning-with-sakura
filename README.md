@@ -158,5 +158,5 @@
 </details>
 
 <details>
-<summary>2020.10.29: day 95 研究了一下小米摄像头，还没研究出来啥 </summary>
+<summary>2020.10.29: day 95 研究了一下小米摄像头，还没啥头绪 </summary>
 </details>
