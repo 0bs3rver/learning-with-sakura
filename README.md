@@ -160,3 +160,14 @@
 <details>
 <summary>2020.10.29: day 95 研究了一下小米摄像头，还没啥头绪 </summary>
 </details>
+
+
+<details>
+<summary>2020.10.30: day 96 满课+补作业 </summary>
+</details>
+
+<details>
+<summary>2020.10.31: day 97 尝试写 pwnable.tw 的 hacknote </summary>
+  
+- [ ] pwnable.tw_hacknote
+</details>
