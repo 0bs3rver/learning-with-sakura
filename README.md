@@ -181,3 +181,9 @@
   
 - [x] [pwnable.tw_hacknote](https://github.com/0bs3rver/pwnable.tw/tree/main/hacknote-%E7%94%A8main_arena%E6%B3%84%E6%BC%8Flibc) ：用main_arena泄漏libc
 </details>
+
+
+<details>
+<summary>2020.11.3: day 100 没要到固件，自己拆摄像头把焊锡拽断了.... </summary>
+
+</details>
