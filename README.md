@@ -178,17 +178,15 @@
 
 <details>
 <summary>2020.11.2: day 99 写完了 pwnable.tw 的 hacknote </summary>
-  
+
 - [x] [pwnable.tw_hacknote](https://github.com/0bs3rver/pwnable.tw/tree/main/hacknote-%E7%94%A8main_arena%E6%B3%84%E6%BC%8Flibc) ：用main_arena泄漏libc
-</details>
-
-
 <details>
-<summary>2020.11.3: day 100 没要到固件，自己拆摄像头把焊锡拽断了.... </summary>
 
+<summary>2020.11.3: day 100 没要到固件，自己拆摄像头把焊锡拽断了.... </summary>
 </details>
 
 <details>
 <summary>2020.11.4: day 101 写完了 pwnable.tw 的 silver_bullet </summary>
-- [x] [pwnable.tw_silver_bullet](https://github.com/0bs3rver/pwnable.tw/tree/main/silver_bullet-strncat%E5%AE%9E%E7%8E%B0%E6%A0%88%E6%BA%A2%E5%87%BA) ：strncat实现栈溢出
+  
+- [x] [pwnable.tw_bullet-strncat](https://github.com/0bs3rver/pwnable.tw/tree/main/silver_bullet-strncat%E5%AE%9E%E7%8E%B0%E6%A0%88%E6%BA%A2%E5%87%BA) ：strncat实现栈溢出
 </details>
