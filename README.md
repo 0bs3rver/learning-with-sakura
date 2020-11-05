@@ -1,10 +1,10 @@
 ## 这是什么？
 
-这是一份 skr_university 的学习清单
+这是一份 skr_university 的学习记录
 
 用以记录和鞭策自己在忙完学校与生活事情之余不要懈怠
 
-由于时间比较久，所以前面以周为单位，后面以日为单位
+由于时间比较久，所以前面是周报，后面是日报
 
 # learning_list
 
@@ -190,4 +190,10 @@
 <summary>2020.11.4: day 101 写完了 pwnable.tw 的 silver_bullet </summary>
   
 - [x] [pwnable.tw_bullet-strncat](https://github.com/0bs3rver/pwnable.tw/tree/main/silver_bullet-strncat%E5%AE%9E%E7%8E%B0%E6%A0%88%E6%BA%A2%E5%87%BA) ：strncat实现栈溢出
+</details>
+
+<details>
+<summary>2020.11.5: day 102 看 pwnable.tw 的 applestore 与补作业 </summary>
+  
+- [ ] pwnable.tw_applestore
 </details>
