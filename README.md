@@ -197,3 +197,7 @@
   
 - [ ] pwnable.tw_applestore
 </details>
+
+<details>
+<summary>2020.11.6: day 103 试图用电烙铁焊锡，然后把自己给烫伤了... </summary>
+</details>
