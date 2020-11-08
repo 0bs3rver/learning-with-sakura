@@ -201,3 +201,10 @@
 <details>
 <summary>2020.11.6: day 103 试图用电烙铁焊锡，然后把自己给烫伤了... </summary>
 </details>
+
+<details>
+<summary>2020.11.7: day 104 开始学习codeql </summary>
+  
+- [ ] CodeQL
+</details>
+ 
