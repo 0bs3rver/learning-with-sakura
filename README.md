@@ -211,3 +211,7 @@
 <details>
 <summary>2020.11.8: day 105 补作业 </summary>
 </details>
+
+<details>
+<summary>2020.11.9: day 106 codeql有点推不动，先继续解决遗留下来的applestore，但是ubuntu炸了。惨惨 </summary>
+</details>
