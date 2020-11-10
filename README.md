@@ -217,3 +217,10 @@
   
 - [ ] pwnable.tw_applestore 写到泄漏libc与heap基址
 </details>
+
+
+<details>
+<summary>2020.11.9: day 107 接着推applestore，装py3的pwntools环境 </summary>
+  
+- [ ] pwnable.tw_applestore 写到如何利用delete的地址写
+</details>
