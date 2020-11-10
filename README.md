@@ -195,7 +195,7 @@
 <details>
 <summary>2020.11.5: day 102 看 pwnable.tw 的 applestore 与补作业 </summary>
   
-- [ ] pwnable.tw_applestore
+- [ ] pwnable.tw_applestore 弄懂利用思路
 </details>
 
 <details>
@@ -214,4 +214,6 @@
 
 <details>
 <summary>2020.11.9: day 106 codeql有点推不动，先继续解决遗留下来的applestore，但是ubuntu炸了。惨惨 </summary>
+  
+- [ ] pwnable.tw_applestore 写到泄漏libc与heap基址
 </details>
