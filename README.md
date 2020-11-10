@@ -220,7 +220,7 @@
 
 
 <details>
-<summary>2020.11.9: day 107 接着推applestore，装py3的pwntools环境 </summary>
+<summary>2020.11.10: day 107 接着推applestore，装py3的pwntools环境 </summary>
   
 - [ ] pwnable.tw_applestore 写到如何利用delete的地址写
 </details>
