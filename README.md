@@ -231,3 +231,9 @@
 - [x] [pwnable.tw_applestore](https://github.com/0bs3rver/pwnable.tw/tree/main/applestore-%E5%88%A9%E7%94%A8%E6%A0%88%E5%B9%B3%E8%A1%A1%E6%8E%A7%E5%88%B6%E5%86%85%E5%AD%98) ：利用栈平衡控制内存
 - [ ] 焊板子大失败，决定用砂纸磨磨然后换个思路弄
 </details>
+
+<details>
+<summary>2020.11.12: day 109 开始读《程序员的自我修养》并写读书笔记 </summary>
+  
+- [ ] 《程序员的自我修养》1.1 从Hello World开始
+</details>
