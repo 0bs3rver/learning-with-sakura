@@ -238,6 +238,7 @@
 - [ ] 《程序员的自我修养》1.1 从Hello World开始
 </details>
 
+<details>
 <summary>2020.11.13: day 110 完成了《程序员的自我修养》第一章读书笔记 </summary>
   
 - [x] [《程序员的自我修养》第一章 温故而知新](https://github.com/0bs3rver/reading-notes/blob/main/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E6%B8%A9%E6%95%85%E8%80%8C%E7%9F%A5%E6%96%B0.md) ：操作系统做什么、内存如何分配与线程基础
