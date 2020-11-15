@@ -249,3 +249,9 @@
   
 - [x] [CVE-2017-17215-华为HG632](https://github.com/0bs3rver/learning-with-sakura/tree/master/IOT/challenge/%E5%8D%8E%E4%B8%BAHG532%E5%91%BD%E4%BB%A4%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E) ：upnp服务中未对语句进行过滤就拼接用system执行，从而可以通过命令注入完成任意命令执行
 </details>
+
+<details>
+<summary>2020.11.15: day 112 体测，晚上看了会《程序员的自我修养》 </summary>
+  
+- [ ] 《程序员的自我修养》笔记写到了2.1
+</details>
