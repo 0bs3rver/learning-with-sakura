@@ -255,3 +255,10 @@
   
 - [ ] 《程序员的自我修养》笔记写到了2.1
 </details>
+
+<details>
+<summary>2020.11.16: day 113 写完了《程序员的自我修养》第二章，开始看pwnable.tw的realloc </summary>
+  
+- [x] [《程序员的自我修养》第二章 编译和链接](https://github.com/0bs3rver/reading-notes/blob/main/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E7%BC%96%E8%AF%91%E5%92%8C%E9%93%BE%E6%8E%A5.md) ：预编译、汇编、编译与链接
+- [ ] pwnable.tw realloc
+</details>
