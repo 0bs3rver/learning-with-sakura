@@ -268,3 +268,10 @@
   
 - [ ] pwnable.tw realloc
 </details>
+
+<details>
+<summary>2020.11.18: day 115 《程序员的自我修养》，写题目 </summary>
+  
+- [ ] 《程序员的自我修养》笔记写到了3.2
+- [ ] 写笔试题，自己好菜啊...
+</details>
