@@ -275,3 +275,9 @@
 - [ ] 《程序员的自我修养》笔记写到了3.2
 - [ ] 写笔试题，自己好菜啊...
 </details>
+
+<details>
+<summary>2020.11.19: day 116 面试被问了，赶了篇shellcode的博客 </summary>
+  
+- [x] [如何编写一个shellcode](http://0bs3rver.space/2020/11/19/%E5%A6%82%E4%BD%95%E7%BC%96%E5%86%99%E4%B8%80%E4%B8%AAshellcode/) ：32与64位的shellcode编写
+</details>
