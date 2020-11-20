@@ -281,3 +281,9 @@
   
 - [x] [如何编写一个shellcode](http://0bs3rver.space/2020/11/19/%E5%A6%82%E4%BD%95%E7%BC%96%E5%86%99%E4%B8%80%E4%B8%AAshellcode/) ：32与64位的shellcode编写
 </details>
+
+<details>
+<summary>2020.11.20: day 117 写完了pwnable.tw 的 re-alloc </summary>
+  
+- [x] [pwnable.tw re-alloc](https://github.com/0bs3rver/pwnable.tw/tree/main/re-alloc-glibc2.29%E4%B8%8B%E7%9A%84uaf%E6%9B%B4%E6%94%B9got%E8%A1%A8) ：glibc2.29下的uaf更改got表
+</details>
