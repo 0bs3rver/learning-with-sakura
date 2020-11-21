@@ -287,3 +287,9 @@
   
 - [x] [pwnable.tw re-alloc](https://github.com/0bs3rver/pwnable.tw/tree/main/re-alloc-glibc2.29%E4%B8%8B%E7%9A%84uaf%E6%9B%B4%E6%94%B9got%E8%A1%A8) ：glibc2.29下的uaf更改got表
 </details>
+
+<details>
+<summary>2020.11.21: day 118 补了篇反弹shell的博客 </summary>
+  
+- [x] [如何构建一个反弹shell](http://0bs3rver.space/2020/11/22/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%8F%8D%E5%BC%B9shell/) ：构建反弹shell
+</details>
