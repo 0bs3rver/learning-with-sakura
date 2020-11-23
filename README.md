@@ -293,3 +293,16 @@
   
 - [x] [如何构建一个反弹shell](http://0bs3rver.space/2020/11/22/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%8F%8D%E5%BC%B9shell/) ：构建反弹shell
 </details>
+
+<details>
+<summary>2020.11.22: day 119 补作业 </summary>
+
+</details>
+
+<details>
+<summary>2020.11.23: day 120 《程序员的自我修养》，写tcachetear，蓝牙键盘突然坏掉了...</summary>
+  
+- [ ] 《程序员的自我修养》笔记写到了3.3
+- [x] 搞定蓝牙键盘
+- [ ] 写pwnable.tw Tcache Tear
+</details>
