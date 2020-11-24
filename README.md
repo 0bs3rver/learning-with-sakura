@@ -306,3 +306,9 @@
 - [x] 搞定蓝牙键盘
 - [ ] 写pwnable.tw Tcache Tear
 </details>
+
+<details>
+<summary>2020.11.24: day 121 接着写tcachetear，看glibc2.26新添加的tcache原理 </summary>
+  
+- [ ] 写pwnable.tw Tcache Tear
+</details>
