@@ -312,3 +312,10 @@
   
 - [ ] 写pwnable.tw Tcache Tear
 </details>
+
+<details>
+<summary>2020.11.25: day 122 继续看《程序员的自我修养》，面试 </summary>
+  
+- [ ] 《程序员的自我修养》笔记写到了3.4
+- [ ] 面试
+</details>
