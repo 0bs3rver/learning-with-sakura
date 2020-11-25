@@ -96,7 +96,7 @@ Binary file bin/mic matches
 
 ### 再次尝试
 
-根据https://www.freebuf.com/vuls/160040.html进行配置，但是有一步关闭ens33应为sudo ifdown eth33，再就是最后一步ifup eth1会出错，需要用ifconfig eth0 192.168.0.110 netmask 255.255.255.0再次配置，这里的192.168.0需要参考本机的br0网卡。
+根据https://www.freebuf.com/vuls/160040.html 进行配置，但是有一步关闭ens33应为sudo ifdown eth33，再就是最后一步ifup eth1会出错，需要用ifconfig eth0 192.168.0.110 netmask 255.255.255.0再次配置，这里的192.168.0需要参考本机的br0网卡。
 
 复现成功
 
