@@ -285,7 +285,7 @@
 <details>
 <summary>2020.11.20: day 117 写完了pwnable.tw 的 re-alloc </summary>
   
-- [x] [pwnable.tw re-alloc](https://github.com/0bs3rver/pwnable.tw/tree/main/re-alloc-glibc2.29%E4%B8%8B%E7%9A%84uaf%E6%9B%B4%E6%94%B9got%E8%A1%A8) ：glibc2.29下的uaf更改got表
+- [x] [pwnable.tw re-alloc](https://github.com/0bs3rver/pwnable.tw/tree/main/re-alloc-%E5%88%A9%E7%94%A8realloc%E5%AE%9E%E7%8E%B0uaf%E6%9B%B4%E6%94%B9got%E8%A1%A8) ：利用realloc实现uaf更改got表
 </details>
 
 <details>
