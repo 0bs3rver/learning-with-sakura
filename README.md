@@ -319,3 +319,9 @@
 - [ ] 《程序员的自我修养》笔记写到了3.4
 - [ ] 面试
 </details>
+
+<details>
+<summary>2020.11.26: day 123 写完了tcachetear </summary>
+  
+- [x] [pwnable.tw Tcache Tear](https://github.com/0bs3rver/pwnable.tw/tree/main/TcacheTear-tcache-dup%26%26house-of-spirit%26%26__free_hook) ：tcache-dup完成任意地址任意写，house-of-spirit泄漏libc基址，改写__free_hook从而劫持控制流
+</details>
