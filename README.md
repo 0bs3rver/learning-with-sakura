@@ -325,3 +325,10 @@
   
 - [x] [pwnable.tw Tcache Tear](https://github.com/0bs3rver/pwnable.tw/tree/main/TcacheTear-tcache-dup%26%26house-of-spirit%26%26__free_hook) ：tcache-dup完成任意地址任意写，house-of-spirit泄漏libc基址，改写__free_hook从而劫持控制流
 </details>
+
+
+<details>
+<summary>2020.11.27: day 124 开始写seethefile，学IO_FILE相关 </summary>
+  
+- [ ] pwnable.tw seethefile
+</details>
