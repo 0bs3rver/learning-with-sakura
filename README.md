@@ -332,3 +332,10 @@
   
 - [ ] pwnable.tw seethefile
 </details>
+
+<details>
+<summary>2020.11.28: day 125 写完了seethefile和death_note </summary>
+  
+- [x] [pwnable.tw seethefile](http://0bs3rver.space/2020/11/28/pwnable-tw-seethefile-%E6%A0%88%E6%BA%A2%E5%87%BA%E6%9E%84%E9%80%A0fake-FILE/) ：栈溢出构造fake-FILE
+- [x] [pwnable.tw death_note](http://0bs3rver.space/2020/11/28/pwnable-tw-death-note-%E5%8F%AF%E8%A7%81%E5%AD%97%E7%AC%A6shellcode/) ：构造可见字符shellcode
+</details>
