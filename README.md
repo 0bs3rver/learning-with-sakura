@@ -339,3 +339,11 @@
 - [x] [pwnable.tw seethefile](http://0bs3rver.space/2020/11/28/pwnable-tw-seethefile-%E6%A0%88%E6%BA%A2%E5%87%BA%E6%9E%84%E9%80%A0fake-FILE/) ：栈溢出构造fake-FILE
 - [x] [pwnable.tw death_note](http://0bs3rver.space/2020/11/28/pwnable-tw-death-note-%E5%8F%AF%E8%A7%81%E5%AD%97%E7%AC%A6shellcode/) ：构造可见字符shellcode
 </details>
+
+
+<details>
+<summary>2020.11.29: day 126 看了会starbound，《程序员的自我修养》 </summary>
+  
+- [ ] pwnable.tw seethefile
+- [ ] 《程序员的自我修养》笔记3.4写完
+</details>
