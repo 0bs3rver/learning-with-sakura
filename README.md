@@ -344,6 +344,18 @@
 <details>
 <summary>2020.11.29: day 126 看了会starbound，《程序员的自我修养》 </summary>
   
-- [ ] pwnable.tw seethefile
+- [ ] pwnable.tw starbound
 - [ ] 《程序员的自我修养》笔记3.4写完
+</details>
+
+
+<details>
+<summary>2020.11.30: day 127 写spirited_away，好像是因为虚拟机没翻墙，远程打不通 </summary>
+  
+- [ ] pwnable.tw spirited_away
+</details>
+
+<details>
+<summary>2020.12.1: day 128 赶实验 </summary>
+  
 </details>
