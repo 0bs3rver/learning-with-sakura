@@ -359,3 +359,10 @@
 <summary>2020.12.1: day 128 赶实验 </summary>
   
 </details>
+
+
+<details>
+<summary>2020.12.2: day 129 写完spirited_away，经过测试，远程不通应该是题目本身的问题 </summary>
+  
+- [x] [pwnable.tw spirited_away](https://github.com/0bs3rver/pwnable.tw/tree/main/spirited_away-read%E4%B8%8Esprintf%E6%A0%88%E6%BA%A2%E5%87%BA)：spirited_away-read与sprintf栈溢出
+</details>
