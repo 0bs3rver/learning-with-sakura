@@ -366,3 +366,9 @@
   
 - [x] [pwnable.tw spirited_away](https://github.com/0bs3rver/pwnable.tw/tree/main/spirited_away-read%E4%B8%8Esprintf%E6%A0%88%E6%BA%A2%E5%87%BA)：spirited_away-read与sprintf栈溢出
 </details>
+
+<details>
+<summary>2020.12.3: day 130 整理了一下自己的linux-pwn技能树，要开始各种复习及大作业了，故暂时只在某任务完成后更新日报 </summary>
+  
+- [x] [linux-pwn技能树](http://0bs3rver.space/2020/12/03/linux-pwn%E6%8A%80%E8%83%BD%E6%A0%91/)
+</details>
