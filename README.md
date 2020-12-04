@@ -372,3 +372,9 @@
   
 - [x] [linux-pwn技能树](http://0bs3rver.space/2020/12/03/linux-pwn%E6%8A%80%E8%83%BD%E6%A0%91/)
 </details>
+
+<details>
+<summary>2020.12.4: day 130 写完了pwnable.tw 的babystack </summary>
+  
+- [x] [pwnable.tw babystack](http://0bs3rver.space/2020/12/04/pwnable-tw-babystack-strcpy%E5%BD%A2%E6%88%90%E6%A0%88%E6%BA%A2%E5%87%BA/)：strcpy形成栈溢出
+</details>
