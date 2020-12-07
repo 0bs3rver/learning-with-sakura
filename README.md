@@ -374,7 +374,14 @@
 </details>
 
 <details>
-<summary>2020.12.4: day 130 写完了pwnable.tw 的babystack </summary>
+<summary>2020.12.4: day 131 写完了pwnable.tw 的babystack </summary>
   
 - [x] [pwnable.tw babystack](http://0bs3rver.space/2020/12/04/pwnable-tw-babystack-strcpy%E5%BD%A2%E6%88%90%E6%A0%88%E6%BA%A2%E5%87%BA/)：strcpy形成栈溢出
+</details>
+
+
+<details>
+<summary>2020.12.7: day 134 写完了pwnable.tw 的secret-garden </summary>
+  
+- [x] [pwnable.tw secret-garden](http://0bs3rver.space/2020/12/07/pwnable-tw-secret-garden-fastbin%E4%BB%BB%E6%84%8F%E5%9C%B0%E5%9D%80%E5%88%86%E9%85%8D%E4%BF%AE%E6%94%B9hook/)：fastbin任意地址分配修改hook
 </details>
