@@ -385,3 +385,10 @@
   
 - [x] [pwnable.tw secret-garden](http://0bs3rver.space/2020/12/07/pwnable-tw-secret-garden-fastbin%E4%BB%BB%E6%84%8F%E5%9C%B0%E5%9D%80%E5%88%86%E9%85%8D%E4%BF%AE%E6%94%B9hook/)：fastbin任意地址分配修改hook
 </details>
+
+<details>
+<summary>2020.12.14: day 141 更新了一篇关于技术和工具原理的博客 </summary>
+  
+- [x] [二进制常用工具与技术的执行过程与原理](http://0bs3rver.space/2020/12/10/%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E4%B8%8E%E6%8A%80%E6%9C%AF%E7%9A%84%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B%E4%B8%8E%E5%8E%9F%E7%90%86/)
+</details>
+
