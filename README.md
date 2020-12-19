@@ -392,3 +392,8 @@
 - [x] [二进制常用工具与技术的执行过程与原理](http://0bs3rver.space/2020/12/10/%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E4%B8%8E%E6%8A%80%E6%9C%AF%E7%9A%84%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B%E4%B8%8E%E5%8E%9F%E7%90%86/)
 </details>
 
+<details>
+<summary>2020.12.19: day 146 写完了《程序员的自我修养》第三章笔记 </summary>
+  
+- [x] [《程序员的自我修养 第三章》](http://0bs3rver.space/2020/12/19/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E7%AC%AC%E4%B8%89%E7%AB%A0-%E7%9B%AE%E6%A0%87%E6%96%87%E4%BB%B6%E9%87%8C%E6%9C%89%E4%BB%80%E4%B9%88/)：目标文件里有什么
+</details>
