@@ -397,3 +397,10 @@
   
 - [x] [《程序员的自我修养 第三章》](http://0bs3rver.space/2020/12/19/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E7%AC%AC%E4%B8%89%E7%AB%A0-%E7%9B%AE%E6%A0%87%E6%96%87%E4%BB%B6%E9%87%8C%E6%9C%89%E4%BB%80%E4%B9%88/)：目标文件里有什么
 </details>
+
+<details>
+<summary>2021.1.11: day 169 终于搞完回家了，看了h4lo的物联网渗透实战公开课，过了一下mips指令集。不过今天状态不行（ </summary>
+  
+- [x] [物联网渗透实战思路](https://study.163.com/course/courseLearn.htm?courseId=1211110811#/learn/live?lessonId=1282137050&courseId=1211110811)
+- [x] [MIPS指令集与简要分析](https://www.jianshu.com/p/ac2c9e7b1d8f)
+</details>
