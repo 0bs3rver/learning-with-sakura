@@ -404,3 +404,16 @@
 - [x] [物联网渗透实战思路](https://study.163.com/course/courseLearn.htm?courseId=1211110811#/learn/live?lessonId=1282137050&courseId=1211110811)
 - [x] [MIPS指令集与简要分析](https://www.jianshu.com/p/ac2c9e7b1d8f)
 </details>
+
+
+<details>
+<summary>2021.1.12: day 170 过了一遍arm汇编 </summary>
+  
+- [x] [ARM 汇编指令集](https://blog.csdn.net/zqixiao_09/article/details/50726544)
+</details>
+
+<details>
+<summary>2021.1.13: day 170 看了讲pwn的课，主要是house of husk、IO FILE和SROP </summary>
+  
+- [x] [Pwn题目中直呼精彩的利用手法](https://study.163.com/course/courseLearn.htm?courseId=1211110811#/learn/live?lessonId=1282126296&courseId=1211110811)
+</details>
