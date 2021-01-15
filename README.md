@@ -413,7 +413,19 @@
 </details>
 
 <details>
-<summary>2021.1.13: day 170 看了讲pwn的课，主要是house of husk、IO FILE和SROP </summary>
+<summary>2021.1.13: day 171 看了讲pwn的课，主要是house of husk、IO FILE和SROP </summary>
   
 - [x] [Pwn题目中直呼精彩的利用手法](https://study.163.com/course/courseLearn.htm?courseId=1211110811#/learn/live?lessonId=1282126296&courseId=1211110811)
 </details>
+
+<details>
+<summary>2021.1.14: day 172 写完了pwnable.tw的alive_note </summary>
+  
+- [x] [pwnable.tw alive_note](http://0bs3rver.space/2021/01/14/pwnable-tw-alive-note-%E6%9E%84%E9%80%A0%E5%88%86%E6%AE%B5shellcode/)
+</details>
+
+
+<details>
+<summary>2021.1.15: day 173 处理杂事，看了看程序员的自我修养 </summary>
+</details>
+
