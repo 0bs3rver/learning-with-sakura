@@ -437,3 +437,9 @@
 <details>
 <summary>2021.1.19: day 177 出题 </summary>
 </details>
+
+<details>
+<summary>2021.2.1: day 190 前段日子主要解决题目的各种问题，最近几天在搭西数的nas，可惜失败了，于是把过程更了一篇博客 </summary>
+  
+- [x] [记一次失败的西数nas的qemu环境搭建](http://0bs3rver.space/2021/02/01/%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%A4%B1%E8%B4%A5%E7%9A%84%E8%A5%BF%E6%95%B0nas%E7%9A%84qemu%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
+</details>
